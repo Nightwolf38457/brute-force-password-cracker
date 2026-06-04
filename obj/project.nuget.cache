@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "449IUnjdgFs=",
+  "dgSpecHash": "HIZxMgc4MDA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\cotom\\OneDrive\\Desktop\\BruteForce\\BruteForce\\BruteForce.csproj",
+  "projectFilePath": "C:\\Users\\cotom\\OneDrive\\Desktop\\BruteForceApp\\BruteForce\\BruteForce.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cotom\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.27\\microsoft.netcore.app.ref.8.0.27.nupkg.sha512",
     "C:\\Users\\cotom\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.27\\microsoft.windowsdesktop.app.ref.8.0.27.nupkg.sha512",

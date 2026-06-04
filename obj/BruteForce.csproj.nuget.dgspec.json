@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cotom\\OneDrive\\Desktop\\BruteForce\\BruteForce\\BruteForce.csproj": {}
+    "C:\\Users\\cotom\\OneDrive\\Desktop\\BruteForceApp\\BruteForce\\BruteForce.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cotom\\OneDrive\\Desktop\\BruteForce\\BruteForce\\BruteForce.csproj": {
+    "C:\\Users\\cotom\\OneDrive\\Desktop\\BruteForceApp\\BruteForce\\BruteForce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cotom\\OneDrive\\Desktop\\BruteForce\\BruteForce\\BruteForce.csproj",
+        "projectUniqueName": "C:\\Users\\cotom\\OneDrive\\Desktop\\BruteForceApp\\BruteForce\\BruteForce.csproj",
         "projectName": "BruteForce",
-        "projectPath": "C:\\Users\\cotom\\OneDrive\\Desktop\\BruteForce\\BruteForce\\BruteForce.csproj",
+        "projectPath": "C:\\Users\\cotom\\OneDrive\\Desktop\\BruteForceApp\\BruteForce\\BruteForce.csproj",
         "packagesPath": "C:\\Users\\cotom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cotom\\OneDrive\\Desktop\\BruteForce\\BruteForce\\obj\\",
+        "outputPath": "C:\\Users\\cotom\\OneDrive\\Desktop\\BruteForceApp\\BruteForce\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

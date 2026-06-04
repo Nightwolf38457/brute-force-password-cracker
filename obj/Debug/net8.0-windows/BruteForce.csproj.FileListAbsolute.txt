@@ -1,0 +1,15 @@
+C:\Users\cotom\OneDrive\Desktop\BruteForceApp\BruteForce\bin\Debug\net8.0-windows\BruteForce.exe
+C:\Users\cotom\OneDrive\Desktop\BruteForceApp\BruteForce\bin\Debug\net8.0-windows\BruteForce.deps.json
+C:\Users\cotom\OneDrive\Desktop\BruteForceApp\BruteForce\bin\Debug\net8.0-windows\BruteForce.runtimeconfig.json
+C:\Users\cotom\OneDrive\Desktop\BruteForceApp\BruteForce\bin\Debug\net8.0-windows\BruteForce.dll
+C:\Users\cotom\OneDrive\Desktop\BruteForceApp\BruteForce\bin\Debug\net8.0-windows\BruteForce.pdb
+C:\Users\cotom\OneDrive\Desktop\BruteForceApp\BruteForce\obj\Debug\net8.0-windows\BruteForce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cotom\OneDrive\Desktop\BruteForceApp\BruteForce\obj\Debug\net8.0-windows\BruteForce.AssemblyInfoInputs.cache
+C:\Users\cotom\OneDrive\Desktop\BruteForceApp\BruteForce\obj\Debug\net8.0-windows\BruteForce.AssemblyInfo.cs
+C:\Users\cotom\OneDrive\Desktop\BruteForceApp\BruteForce\obj\Debug\net8.0-windows\BruteForce.csproj.CoreCompileInputs.cache
+C:\Users\cotom\OneDrive\Desktop\BruteForceApp\BruteForce\obj\Debug\net8.0-windows\BruteForce.sourcelink.json
+C:\Users\cotom\OneDrive\Desktop\BruteForceApp\BruteForce\obj\Debug\net8.0-windows\BruteForce.dll
+C:\Users\cotom\OneDrive\Desktop\BruteForceApp\BruteForce\obj\Debug\net8.0-windows\refint\BruteForce.dll
+C:\Users\cotom\OneDrive\Desktop\BruteForceApp\BruteForce\obj\Debug\net8.0-windows\BruteForce.pdb
+C:\Users\cotom\OneDrive\Desktop\BruteForceApp\BruteForce\obj\Debug\net8.0-windows\BruteForce.genruntimeconfig.cache
+C:\Users\cotom\OneDrive\Desktop\BruteForceApp\BruteForce\obj\Debug\net8.0-windows\ref\BruteForce.dll
